@@ -1,24 +1,7 @@
 # Project Management System (PMS)
 
 A full-stack web application developed with Spring Boot backend and Angular 15 frontend, featuring comprehensive project management capabilities with real-time collaboration.
-
-# PMS Screenshots
-
-Authentication
-    ![PMS login](./screenshots/login.png)
-    
-Project Management
-    ![PMS Project](./screenshots/project.png)
-    ![PMS kanbanboard](./screenshots/kanban%2520board.png)
-    ![PMS Project Board](./screenshots/projectboard.png)
-
-Resource Managment
-    ![PMS create resource form](./screenshots/C%20R%20form.png)
-    ![PMS Resources](./screenshots/converted%2520user.png)
-
-## See Rest of the images inside the screenshot section
-
-## Features
+## 🚀 Features
 
 ### Core Modules
 - **Project Tracking** - Complete project lifecycle management
@@ -27,14 +10,52 @@ Resource Managment
 - **Resource Allocation** - Efficient team and resource management
 - **File Management** - Document sharing and version control
 - **Expense Tracking** - Budget management and expense monitoring
-- **NOtifications** - Real Time Notifications update.
+- **Team Management** - Team creation and member allocation
+- **Real-time Collaboration** - Discussions and notifications
 
 ### Technical Features
 - **JWT Authentication** - Secure user authentication and authorization
 - **Real-time Notifications** - WebSocket-based live updates
 - **RESTful APIs** - Comprehensive API documentation with Swagger
+- **Responsive Design** - Mobile-friendly interface with Tailwind CSS
 
-## Tech Stack
+## 🖼 Application Screenshots
+
+### Authentication
+![Login](./screenshots/login.png)
+
+### Project Management
+![Projects](./screenshots/project.png)
+![Kanban Board](./screenshots/kanban%20board.png)
+![Project Board](./screenshots/projectboard.png)
+
+### Team Management
+![Team Manager](./screenshots/team%20manager.png)
+![Create Team](./screenshots/create%20team.png)
+![Member Management](./screenshots/member%20manager.png)
+
+### Resource Management
+![Resource Allocation](./screenshots/resource%20allocation.png)
+![Create Resource](./screenshots/create%20resource.png)
+![Time Request](./screenshots/time%20request.png)
+![PMS Dashboard](./screenshots/C%20R%20form.png)
+![User Management](./screenshots/converted%20user.png)
+
+
+### File & Financial Management
+![File Upload](./screenshots/file%20upload.png)
+![File Download](./screenshots/file%20download.png)
+![Expense Tracking](./screenshots/expense.png)
+![Reports](./screenshots/report.png)
+![Downloaded Report](./screenshots/downloaded%20report.png)
+
+### Collaboration & UI
+![Discussions](./screenshots/discussion%20feature.png)
+![Notifications](./screenshots/notifications.png)
+![Popup](./screenshots/popup.png)
+![Sidebar](./screenshots/sidebar.png)
+
+## 🛠 Tech Stack
 
 ### Frontend
 - **Angular 15** - Frontend framework
@@ -49,18 +70,11 @@ Resource Managment
 - **Spring Security** - Security framework
 - **WebSocket** - STOMP messaging protocol
 
-### Development Tools
-- **Swagger/OpenAPI** - API documentation
-- **Maven** - Dependency management
-- **RxJS** - Reactive programming
+## 📋 Prerequisites
 
-## Prerequisites
 Before running this application, ensure you have installed:
 - Java 17 or higher
 - Node.js 16 or higher
 - Angular CLI 15
 - MySQL 8.0 or higher
 - Maven 3.6 or higher
-   ```bash
-   git clone https://github.com/yourusername/project-management-system.git
-   cd project-management-system/backend
