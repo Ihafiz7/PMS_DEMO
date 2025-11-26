@@ -3,58 +3,56 @@
 A full-stack web application developed with Spring Boot backend and Angular 15 frontend, featuring comprehensive project management capabilities with real-time collaboration.
 
 # PMS Screenshots
-![PMS Dashboard](./screenshots/C%20R%20form.png)
+
 Authentication
-
-    https://./screenshots/login.png
-
-    https://./screenshots/converted%2520user.png
-
+    ![PMS login](./screenshots/login.png)
+    
 Project Management
+    ![PMS Project](./screenshots/project.png)
+    ![PMS kanbanboard](./screenshots/kanban%2520board.png)
+    ![PMS Project Board](./screenshots/projectboard.png)
 
-    https://./screenshots/project.png
-
-    https://./screenshots/kanban%2520board.png
-
-    https://./screenshots/projectboard.png
+Resource Managment
+    ![PMS create resource form](./screenshots/C%20R%20form.png)
+    ![PMS Resources](./screenshots/converted%2520user.png)
 
 Team Management
 
-    https://./screenshots/team%2520manager.png
+    ![PMS TEAM](./screenshots/team%2520manager.png)
 
-    https://./screenshots/create%2520team.png
+    ![PMS create team](./screenshots/create%2520team.png)
 
-    https://./screenshots/member%2520manager.png
+    ![PMS member](./screenshots/member%2520manager.png)
 
 Resource Management
 
-    https://./screenshots/resource%2520allocation.png
+    ![PMS RA](./screenshots/resource%2520allocation.png)
 
-    https://./screenshots/create%2520resource.png
+    ![PMS RA](./screenshots/create%2520resource.png)
 
-    https://./screenshots/time%2520request.png
+     ![PMS RA](./screenshots/time%2520request.png)
 
 File & Financial Management
 
-    https://./screenshots/file%2520upload.png
+     ![PMS FFM](./screenshots/file%2520upload.png)
 
-    https://./screenshots/file%2520download.png
+    ![PMS FFM](./screenshots/file%2520download.png)
 
-    https://./screenshots/expense.png
+    ![PMS FFM](./screenshots/expense.png)
 
-    https://./screenshots/report.png
+    ![PMS FFM](./screenshots/report.png)
 
-    https://./screenshots/downloaded%2520report.png
+    ![PMS FFM](./screenshots/downloaded%2520report.png)
 
 Collaboration & UI
 
-    https://./screenshots/discussion%2520feature.png
+    ![PMS CU](./screenshots/discussion%2520feature.png)
 
-    https://./screenshots/notifications.png
+    ![PMS CU](./screenshots/notifications.png)
 
-    https://./screenshots/popup.png
+    ![PMS CU](./screenshots/popup.png)
 
-    https://./screenshots/sidebar.png
+    ![PMS CU](./screenshots/sidebar.png)
 
 ## Features
 
@@ -65,12 +63,12 @@ Collaboration & UI
 - **Resource Allocation** - Efficient team and resource management
 - **File Management** - Document sharing and version control
 - **Expense Tracking** - Budget management and expense monitoring
+- **NOtifications** - Real Time Notifications update.
 
 ### Technical Features
 - **JWT Authentication** - Secure user authentication and authorization
 - **Real-time Notifications** - WebSocket-based live updates
 - **RESTful APIs** - Comprehensive API documentation with Swagger
-- **Responsive Design** - Mobile-friendly interface with Tailwind CSS
 
 ## Tech Stack
 
