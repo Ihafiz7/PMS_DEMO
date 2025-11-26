@@ -3,34 +3,57 @@
 A full-stack web application developed with Spring Boot backend and Angular 15 frontend, featuring comprehensive project management capabilities with real-time collaboration.
 
 # PMS Screenshots
+Authentication
 
-## Authentication
-- ![Login](./image.png?login.png)
+    https://./screenshots/login.png
 
+    https://./screenshots/converted%2520user.png
 
-## Project Management
-- ![Projects](./image.png?project.png)
-- ![Kanban Board](./image.png?kanban board.png)
+Project Management
 
-## Team Management
-- ![Team Manager](./image.png?team manager.png)
-- ![Create Team](./image.png?create team.png)
+    https://./screenshots/project.png
 
-  
-## Resource Management
-- ![Resource Allocation](./image.png?resource allocation.png)
-- ![Dashboard](./image.png?C R form.png)
-- ![User Management](./image.png?converted user.png)
+    https://./screenshots/kanban%2520board.png
 
+    https://./screenshots/projectboard.png
 
-## File & Financial
-- ![File Upload](./image.png?file upload.png)
-- ![Expense Tracking](./image.png?expense.png)
-- ![Reports](./image.png?report.png)
+Team Management
 
-## Collaboration
-- ![Discussions](./image.png?discussion feature.png)
-- ![Notifications](./image.png?notifications.png)
+    https://./screenshots/team%2520manager.png
+
+    https://./screenshots/create%2520team.png
+
+    https://./screenshots/member%2520manager.png
+
+Resource Management
+
+    https://./screenshots/resource%2520allocation.png
+
+    https://./screenshots/create%2520resource.png
+
+    https://./screenshots/time%2520request.png
+
+File & Financial Management
+
+    https://./screenshots/file%2520upload.png
+
+    https://./screenshots/file%2520download.png
+
+    https://./screenshots/expense.png
+
+    https://./screenshots/report.png
+
+    https://./screenshots/downloaded%2520report.png
+
+Collaboration & UI
+
+    https://./screenshots/discussion%2520feature.png
+
+    https://./screenshots/notifications.png
+
+    https://./screenshots/popup.png
+
+    https://./screenshots/sidebar.png
 
 ## Features
 
