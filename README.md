@@ -16,43 +16,7 @@ Resource Managment
     ![PMS create resource form](./screenshots/C%20R%20form.png)
     ![PMS Resources](./screenshots/converted%2520user.png)
 
-Team Management
-
-    ![PMS TEAM](./screenshots/team%2520manager.png)
-
-    ![PMS create team](./screenshots/create%2520team.png)
-
-    ![PMS member](./screenshots/member%2520manager.png)
-
-Resource Management
-
-    ![PMS RA](./screenshots/resource%2520allocation.png)
-
-    ![PMS RA](./screenshots/create%2520resource.png)
-
-     ![PMS RA](./screenshots/time%2520request.png)
-
-File & Financial Management
-
-     ![PMS FFM](./screenshots/file%2520upload.png)
-
-    ![PMS FFM](./screenshots/file%2520download.png)
-
-    ![PMS FFM](./screenshots/expense.png)
-
-    ![PMS FFM](./screenshots/report.png)
-
-    ![PMS FFM](./screenshots/downloaded%2520report.png)
-
-Collaboration & UI
-
-    ![PMS CU](./screenshots/discussion%2520feature.png)
-
-    ![PMS CU](./screenshots/notifications.png)
-
-    ![PMS CU](./screenshots/popup.png)
-
-    ![PMS CU](./screenshots/sidebar.png)
+## See Rest of the images inside the screenshot section
 
 ## Features
 
