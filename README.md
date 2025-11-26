@@ -3,6 +3,7 @@
 A full-stack web application developed with Spring Boot backend and Angular 15 frontend, featuring comprehensive project management capabilities with real-time collaboration.
 
 # PMS Screenshots
+![PMS Dashboard](./screenshots/C%20R%20form.png)
 Authentication
 
     https://./screenshots/login.png
