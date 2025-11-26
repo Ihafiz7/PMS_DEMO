@@ -1,7 +1,7 @@
 # Project Management System (PMS)
 
 A full-stack web application developed with Spring Boot backend and Angular 15 frontend, featuring comprehensive project management capabilities with real-time collaboration.
-## 🚀 Features
+## Features
 
 ### Core Modules
 - **Project Tracking** - Complete project lifecycle management
@@ -19,7 +19,7 @@ A full-stack web application developed with Spring Boot backend and Angular 15 f
 - **RESTful APIs** - Comprehensive API documentation with Swagger
 - **Responsive Design** - Mobile-friendly interface with Tailwind CSS
 
-## 🖼 Application Screenshots
+## Application Screenshots
 
 ### Authentication
 ![Login](./screenshots/login.png)
@@ -55,7 +55,7 @@ A full-stack web application developed with Spring Boot backend and Angular 15 f
 ![Popup](./screenshots/popup.png)
 ![Sidebar](./screenshots/sidebar.png)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Angular 15** - Frontend framework
@@ -70,7 +70,7 @@ A full-stack web application developed with Spring Boot backend and Angular 15 f
 - **Spring Security** - Security framework
 - **WebSocket** - STOMP messaging protocol
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this application, ensure you have installed:
 - Java 17 or higher
